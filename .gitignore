@@ -109,6 +109,5 @@ dist
 .idea/misc.xml
 .idea/modules.xml
 package-lock.json
-package.json
 wetube.iml
 .idea/vcs.xml
